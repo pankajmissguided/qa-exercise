@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 4, Time elapsed: 0.849 sec <<< FAILURE! - in TestSuite
+setUp(ccom.valtech.testMethods.TC01_verifyHomePageMenuItems)  Time elapsed: 0.594 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at ccom.valtech.testMethods.TC01_verifyHomePageMenuItems.setUp(TC01_verifyHomePageMenuItems.java:39)
+

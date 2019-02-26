@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [RegressionSuite]">
+  <test name="RegressionTest(failed)">
+    <classes>
+      <class name="ccom.valtech.testMethods.TC01_verifyHomePageMenuItems">
+        <methods>
+          <include name="TS03_verifyWork"/>
+          <include name="clickAboutMenu"/>
+          <include name="setUp"/>
+          <include name="TS02_verifyServices"/>
+        </methods>
+      </class> <!-- ccom.valtech.testMethods.TC01_verifyHomePageMenuItems -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
