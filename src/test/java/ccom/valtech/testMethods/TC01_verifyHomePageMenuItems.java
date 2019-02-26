@@ -67,7 +67,7 @@ public class TC01_verifyHomePageMenuItems extends TestBase{
 		}
 	
 	}
-	@Test(enabled =false)
+	@Test(enabled =true)
 	public void TS02_verifyServices(){
 		 try {
 			 Thread.sleep(1000);
@@ -90,7 +90,7 @@ public class TC01_verifyHomePageMenuItems extends TestBase{
 		}
 	
 	}
-	@Test(enabled =false)
+	@Test(enabled =true)
 	public void TS03_verifyWork(){
 		 try {
 			 Thread.sleep(1000);
@@ -114,7 +114,7 @@ public class TC01_verifyHomePageMenuItems extends TestBase{
 		}
 	
 	}
-	@Test(enabled =false)
+	@Test(enabled =true)
 	public void clickAboutMenu(){
 		 try {
 			 Thread.sleep(2000);
