@@ -100,6 +100,10 @@ This ‘ll run the reports of the test case run Pass/Fail.
 
 
 
+Note : if running the excercise getting any issue than Go to Folder "JRE System Library" rt. click  go to Properties>Environments and change it to JavaSE 1.7 and then click on   Apply and Close.
+
+
+
 
 
 
